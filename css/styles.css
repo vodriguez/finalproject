@@ -100,7 +100,7 @@ cursor: pointer;
 }
 
 .hero {
-  background-image: url('/images/heroimage.png');
+  background-image: url('../images/heroimage.png');
   height: 600px;
   width: auto;
   background-size: cover;
